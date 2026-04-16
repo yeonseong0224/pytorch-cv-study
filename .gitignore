@@ -58,3 +58,7 @@ Thumbs.db
 # data/
 # *.zip
 # *.tar.gz
+
+
+# 연습용 폴더
+practice/
